@@ -27,5 +27,5 @@ Follow these steps to set up the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/university-social-media.git
-   cd university-social-media
+   git clone https://github.com/Jawad-02/TushSocialMedia.git
+   cd TushSocialMedia
