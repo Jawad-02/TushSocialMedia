@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -64,3 +65,36 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+# Toros University Student Hub Application
+
+This is a social media application built using PHP Laravel, designed to enhance communication among university students. The primary goals are to enable students to share resources related to their sections, discuss university-related topics, and collaborate more effectively.
+
+---
+
+## Features
+
+- **Student Communication:** Users can connect and communicate with each other easily.
+- **Resource Sharing:** Students can share files, notes, and other resources relevant to their university sections.
+- **Discussion Forums:** A space for students to engage in discussions about various topics related to university life and academics.
+
+---
+
+## Technology Stack
+
+- **Framework:** Laravel (PHP)
+- **Database:** MySQL (or your chosen database)
+- **Frontend:** Blade templates with integrated CSS and JavaScript
+- **Other Tools:** Laravel's built-in tools and third-party packages
+
+---
+
+## Setup and Installation
+
+Follow these steps to set up the project locally:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/university-social-media.git
+   cd university-social-media
+>>>>>>> 77341cf1133f32f876ecbe222c502e649f2b42d3
